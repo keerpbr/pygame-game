@@ -60,7 +60,7 @@ def game_loop():
     gameExit = False
     oneTimeSay = True
     
-    welcome = "Hello. This is a game developed with Python and Pygame."
+    welcome = "Hello. This is a game developed with Python and Pygame. aeho"
     while not gameExit:
 
         for event in pygame.event.get():
